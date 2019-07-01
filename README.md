@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+[React-cn]: https://www.reactjscn.com/docs/hello-world.html
+
 解决npm运行缓慢问题
 
 ```sh
@@ -19,6 +21,8 @@ npx create-react-app webapp
 
 In the project directory, you can run:
 
+启动
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
@@ -32,6 +36,8 @@ You will also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.<br>
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+生产发布
+
 ### `npm run build`
 
 Builds the app for production to the `build` folder.<br>
@@ -42,7 +48,9 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+删除
+
+### npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
